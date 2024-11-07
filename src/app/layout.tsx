@@ -5,7 +5,7 @@ import Navbar from "../components/NavBar";
 
 export const metadata: Metadata = {
   title: "SnapZoška",
-  description: "Vytvorené študentami SPŠE Zochova 9, Bratislava",
+  description: "Vytvorené Davidom Noelom",
 };
 
 export default function RootLayout({
