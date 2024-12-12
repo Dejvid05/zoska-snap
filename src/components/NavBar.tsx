@@ -7,8 +7,6 @@ import { BottomNavigation, BottomNavigationAction, Box } from '@mui/material';
 import HomeIcon from '@mui/icons-material/Home';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import AddCircleIcon from '@mui/icons-material/AddCircle';
-import LoginIcon from '@mui/icons-material/Login';
-import AppRegistrationIcon from '@mui/icons-material/AppRegistration';
 import InfoIcon from '@mui/icons-material/Info';
 import { useRouter } from 'next/navigation';
 
